@@ -8,6 +8,7 @@ export default function App() {
       <nav>
         <Link to="/">Home</Link>
       </nav>
+      <h1>Content</h1>
       <hr />
       <Outlet />
     </div>
